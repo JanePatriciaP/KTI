@@ -1,0 +1,7 @@
+D:\smt5\KTI\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.exe
+D:\smt5\KTI\MyWebApp\bin\Debug\net7.0\publish\appsettings.Development.json
+D:\smt5\KTI\MyWebApp\bin\Debug\net7.0\publish\appsettings.json
+D:\smt5\KTI\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.dll
+D:\smt5\KTI\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.deps.json
+D:\smt5\KTI\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.runtimeconfig.json
+D:\smt5\KTI\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.pdb
